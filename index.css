@@ -1,0 +1,29 @@
+body{
+border:8px solid;
+margin-top: 15px;
+margin-left: 15px;
+margin-right: 15px;
+border-color:#47d65c;
+background:#1fbc7e;
+color:#000000;
+font-size: 25px
+}
+
+p{
+margin-left:40px;
+margin-right:40px;
+text-align:justify;
+font-size:25px;
+
+}
+
+img{
+border:10px solid;
+margin-top:50px;
+margin-left:50px;
+margin-right:50px;
+margin-bottom:50px;
+border-color: #3b7a14;
+}
+
+
